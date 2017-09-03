@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="color_1">#f7bad6</color>
+    <color name="color_2">#e1438d</color>
+    <color name="color_3">#ea0872</color>
+    <color name="color_4">#c1065e</color>
+    <color name="color_5">#81043c</color>
+    <color name="niebieski">#81e2f1</color>
+    <color name="grad1">#223ad9</color>
+    <color name="grad2">#c91d39</color>
+    <color name="grad3">#097830</color>
+    <color name="grad4">#ea4d67</color>
+    <color name="grad5">#890ab3</color>
+    <color name="grad6">#ede885</color>
+    <color name="grad7">#223ad9</color>
+    <color name="grad8">#ed8947</color>
+    <color name="grad9">#167f84</color>
+    <color name="grad10">#ec9ba9</color>
+    <color name="grad11">#8e0b74</color>
+    <color name="grad12">#e9dadd</color>
+    <color name="grad13">#8187f7</color>
+    <color name="grad14">#81f7ef</color>
+    <color name="grad15">#121313</color>
+    <color name="grad16">#81f7b0</color>
+    <color name="grad17">#4211ca</color>
+    <color name="grad18">#62bf8b</color>
+    <color name="grad19">#d48309</color>
+    <color name="grad20">#ecd0d6</color>
+    <color name="grad21">#732435</color>
+    <color name="grad22">#c881f7</color>
+    <color name="grad23">#ded30a</color>
+    <color name="grad24">#2dc469</color>
+
+</resources>

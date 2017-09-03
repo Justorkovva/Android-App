@@ -1,0 +1,9 @@
+1. poeksperymentowaæ z ró¿nymi layoutami - frame itd.
+2. U¿ywam tools:fontFamily="serif", ale dzia³a tylko
+w podgl¹dzie, a na telefonie jest zwyk³a czcionka znowu :/
+3. Gdyby mo¿na ustawiæ obrazek na "NULL", to wystarczy³by layout powod_4,
+ ale wyskakiwa³ wtedy b³¹d.
+
+
+
+
