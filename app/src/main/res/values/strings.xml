@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">App</string>
-    <string name="poznaj_powody">To the buttons</string>
-    <string name="witaj1">Hello</string>
-    <string name="witaj2"> :)</string>
+    <string name="poznaj_powody">or click the cookie to see all of them</string>
+    <string name="witaj1">Hello, for random</string>
+    <string name="witaj2">message click below</string>
 
 </resources>

@@ -85,7 +85,7 @@ switch(number) {
         break;
 
     default:
-        Powod.setText("105 buttons have this line. Hope it's good");
+        Powod.setText("Default text");
         break;
 
 }}
